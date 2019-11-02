@@ -1,0 +1,9 @@
+C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe.config
+C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.pdb
+C:\Users\africasma\Source\Repos\MyService\MyService\obj\Debug\MyService.exe
+C:\Users\africasma\Source\Repos\MyService\MyService\obj\Debug\MyService.pdb
+C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\africasma\Source\Repos\MyService\MyService\obj\Debug\MyService.csproj.CopyComplete
+C:\Users\africasma\Source\Repos\MyService\MyService\obj\Debug\MyService.csprojAssemblyReference.cache

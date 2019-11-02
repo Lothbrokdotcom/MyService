@@ -1,0 +1,998 @@
+﻿Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
+Выполняется установка сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Устанавливается служба Service1...
+Служба Service1 успешно установлена.
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется фиксация сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление сборки 'C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.exe
+   logfile = C:\Users\africasma\Source\Repos\MyService\MyService\bin\Debug\MyService.InstallLog
+Выполняется удаление источника EventLog Service1.
+Выполняется удаление службы Service1 из системы...
+Служба Service1 успешно удалена из системы.
+Попытка останова службы Service1.
