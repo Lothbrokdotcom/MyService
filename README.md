@@ -1,2 +1,2 @@
 # MyService
-Servise that gathers PC_name, manufacturer, cpu/ram load and users
+Service that gathers PC_name, manufacturer, cpu/ram load and users
